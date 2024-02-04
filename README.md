@@ -5,7 +5,7 @@ A atmosfera é uma mistura de gases cujas concentrações são relativamente con
 
 -------|----| Porcentagem de Dados Faltantes (%) | Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)
 ----------|---------|:-------:|:-----:|:----:|:-----:|:--------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
-Municıpio | Estacão |  PM10 | NO2 | O3 | SO2 | PM 2,5 | CO | Tº | DV | PP | VV | RS | UR
+**Municıpio** | **Estacão** |  **PM10** | **NO2** | **O3** | **SO2** | **PM 2,5** | **CO** | **Tº** | **DV** | **PP** | **VV** | **RS** | **UR**
 Belo Horizonte | Centro Av. Contorno | 7,26 | 3,46 | 5,09 | 6,31 | 20,9 | 8,56 | 2,49 | 2,24 | 2,08 | 2,99 | 2,24 | 2,64
 Betim  | Alterosa | 9,56 | 6,92 | 4,91 |3,24 |21,7 |7,01 |5,3 |4,9 |4,32 |6,14 |27,3 |5,32
 Betim  | Centro | 7,74| 7,79| 11,2| 9,95| 24,2| 12,4| 7,71| 9,29| 13,7| 11| 19,1| 7,78
