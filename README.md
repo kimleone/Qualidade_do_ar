@@ -3,7 +3,7 @@ A atmosfera é uma mistura de gases cujas concentrações são relativamente con
 
 ### Dados
 
--------|----| Porcentagem de Dados Faltantes (%) | Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)
+-|-| Porcentagem de Dados Faltantes (%) | Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)|Porcentagem de Dados Faltantes (%)
 ----------|---------|:-------:|:-----:|:----:|:-----:|:--------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
 **Municıpio** | **Estacão** |  **PM10** | **NO2** | **O3** | **SO2** | **PM 2,5** | **CO** | **Tº** | **DV** | **PP** | **VV** | **RS** | **UR**
 Belo Horizonte | Centro Av. Contorno | 7,26 | 3,46 | 5,09 | 6,31 | 20,9 | 8,56 | 2,49 | 2,24 | 2,08 | 2,99 | 2,24 | 2,64
